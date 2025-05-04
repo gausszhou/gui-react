@@ -1,0 +1,15 @@
+{
+  "name": "gui-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "pnpm --filter @gui-react/docs run docs:dev",
+    "docs:build": "pnpm --filter @gui-react/docs run docs:build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.2"
+}

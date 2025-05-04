@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "target": "es2016",
+        "sourceMap": false,
+        "module": "esnext",
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "strict": true,
+        "jsx": "react",
+        "lib": [
+            "esnext",
+            "dom"
+        ],
+        "rootDir": ".",
+        "moduleResolution": "node"
+    },
+    "include": [
+        "packages/components/**/*.ts",
+        "packages/components/**/*.tsx"
+    ]
+}

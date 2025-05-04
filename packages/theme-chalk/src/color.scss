@@ -1,0 +1,18 @@
+:root {
+    --g-color-white: #fff;
+    --g-color-black: #000;
+    --g-color-primary: #409eff;
+    --g-color-success: #67C23A;
+    --g-color-warning: #E6A23C;
+    --g-color-danger: #F56C6C;
+    --g-color-info: #909399;
+
+    --g-color-primary-text: #303133;
+
+    --g-button-text: var(--g-color-white);
+    --g-button-primary: var(--g-color-primary);
+    --g-button-success: var(--g-color-success);
+    --g-button-warning: var(--g-color-warning);
+    --g-button-danger: var(--g-color-danger);
+    --g-button-info: var(--g-color-info);
+}
